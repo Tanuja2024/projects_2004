@@ -117,6 +117,5 @@ The API key is stored in an environment variable using the `.env` file for secur
 
  ![App Screenshot8](./Images/Screenshot15.png)
 
-## Project Demo Video
-[Watch the Project Demo]()
+
 
