@@ -1,4 +1,0 @@
-uvicorn
-pydantic
-nltk
-scikit-learn
